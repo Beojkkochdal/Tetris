@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#DA4DF3</color>
+    <color name="primary_var">#761D8A</color>
+    <color name="accent">#EABEEF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="block1">#EC61AD</color>>
+    <color name="block2">#E83CA8</color>>
+    <color name="block3">#6B93C1</color>>
+    <color name="block4">#1F60A3</color>>
+    <color name="block5">#DA4DF3</color>>
+    <color name="block6">#761D8A</color>>
+    <color name="block7">#737072</color>>
+</resources>

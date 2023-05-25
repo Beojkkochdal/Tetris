@@ -1,0 +1,57 @@
+com/lyapunov/tetris/blocks/OShape.java
+ com.lyapunov.tetris.blocks.OShape
+com/lyapunov/tetris/databinding/ActivityHighscoreBinding.java
+ com.lyapunov.tetris.databinding.ActivityHighscoreBinding
+com/lyapunov/tetris/blocks/ZShape.java
+ com.lyapunov.tetris.blocks.ZShape
+com/lyapunov/tetris/game/RotationHandler.java
+ com.lyapunov.tetris.game.RotationHandler
+com/lyapunov/tetris/blocks/JShape.java
+ com.lyapunov.tetris.blocks.JShape
+com/lyapunov/tetris/database/ScoreDao_Impl.java
+ com.lyapunov.tetris.database.ScoreDao_Impl
+ com.lyapunov.tetris.database.ScoreDao_Impl$1
+ com.lyapunov.tetris.database.ScoreDao_Impl$2
+ com.lyapunov.tetris.database.ScoreDao_Impl$3
+ com.lyapunov.tetris.database.ScoreDao_Impl$4
+ com.lyapunov.tetris.database.ScoreDao_Impl$5
+com/lyapunov/tetris/game/ScoreCounter.java
+ com.lyapunov.tetris.game.ScoreCounter
+com/lyapunov/tetris/blocks/SShape.java
+ com.lyapunov.tetris.blocks.SShape
+com/lyapunov/tetris/game/LevelCounter.java
+ com.lyapunov.tetris.game.LevelCounter
+com/lyapunov/tetris/databinding/ActivityStartBinding.java
+ com.lyapunov.tetris.databinding.ActivityStartBinding
+com/lyapunov/tetris/blocks/LShape.java
+ com.lyapunov.tetris.blocks.LShape
+com/lyapunov/tetris/BuildConfig.java
+ com.lyapunov.tetris.BuildConfig
+com/lyapunov/tetris/game/Board.java
+ com.lyapunov.tetris.game.Board
+com/lyapunov/tetris/blocks/IShape.java
+ com.lyapunov.tetris.blocks.IShape
+com/lyapunov/tetris/databinding/ActivityMainBinding.java
+ com.lyapunov.tetris.databinding.ActivityMainBinding
+com/lyapunov/tetris/game/Game.java
+ com.lyapunov.tetris.game.Game
+ com.lyapunov.tetris.game.Game$1
+com/lyapunov/tetris/databinding/HighscoreItemBinding.java
+ com.lyapunov.tetris.databinding.HighscoreItemBinding
+com/lyapunov/tetris/blocks/Shape.java
+ com.lyapunov.tetris.blocks.Shape
+com/lyapunov/tetris/game/BlockFactory.java
+ com.lyapunov.tetris.game.BlockFactory
+com/lyapunov/tetris/databinding/ActivityInfoBinding.java
+ com.lyapunov.tetris.databinding.ActivityInfoBinding
+com/lyapunov/tetris/blocks/TShape.java
+ com.lyapunov.tetris.blocks.TShape
+com/lyapunov/tetris/database/AppDatabase_Impl.java
+ com.lyapunov.tetris.database.AppDatabase_Impl
+ com.lyapunov.tetris.database.AppDatabase_Impl$1
+com/lyapunov/tetris/game/GameObserver.java
+ com.lyapunov.tetris.game.GameObserver
+com/lyapunov/tetris/game/BlockGenerator.java
+ com.lyapunov.tetris.game.BlockGenerator
+com/lyapunov/tetris/databinding/ActivitySettingBinding.java
+ com.lyapunov.tetris.databinding.ActivitySettingBinding
